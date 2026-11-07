@@ -1,0 +1,13 @@
+# Editores y sistema
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
+
+# Rust
+target/
+
+# Objetos de C (cosmic-usb)
+*.o
+*.a
